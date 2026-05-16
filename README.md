@@ -25,4 +25,9 @@ NumPy
 
 The project was implemented using the [Google Colab] platform, which provides an online environment for writing and executing Python code. Google Colab was used to build, train, and evaluate the Convolutional Neural Network (CNN) model efficiently without requiring local system setup. It also helped in visualizing outputs, saving the notebook, and managing the deep learning workflow easily.
 
+OUTPUT
+
+<img width="1036" height="550" alt="Image" src="https://github.com/user-attachments/assets/afb2787e-de34-4efa-8f59-7982c05e49be" />
+
+
 
